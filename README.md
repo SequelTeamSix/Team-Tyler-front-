@@ -1,6 +1,8 @@
 # Team-Tyler-front-
-This is the front end for Team Tyler
+This is the front end for Team Tyler.
+
 You can access it via https://purple-sand-010f49110.1.azurestaticapps.net/webpages/index.html
+
 Features to try include: 
   - Search bar to find a movie
   - Login/create account
