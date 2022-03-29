@@ -13,8 +13,8 @@ Please note that while the front end is a static website, the backend might be d
 
 
 For this project we
-  -created a search feature that queries an open API
-  -created a registration system that adds a user to our database
-  -used cookies to login a use and keep them logged in throughout the session
-  -converted form responses to JSON to take user reviews and persist them
-  -queried our user database to retrieve reviews posted by user to create userpages
+  - created a search feature that queries an open API
+  - created a registration system that adds a user to our database
+  - used cookies to login a use and keep them logged in throughout the session
+  - converted form responses to JSON to take user reviews and persist them
+  - queried our user database to retrieve reviews posted by user to create userpages
